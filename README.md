@@ -1,6 +1,9 @@
 # Umbraco-codegarden-2022
 <a href="codegarden.umbraco.com">Codegarden Homepage</a> <br>
 <br>
+
+![image](https://user-images.githubusercontent.com/3230596/173561453-e2711414-4a23-4d42-b541-b3426727dc2c.png)
+
 ## Program
 <a href="/program/Wednesday.png">Program Day2: Wednsday</a> <br>
 <a href="/program/Thursday.png">Program Day3: Thursday</a> <br>
