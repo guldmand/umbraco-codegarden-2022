@@ -6,6 +6,9 @@
 <a href="/program/Thursday.png">Program Day3: Thursday</a> <br>
 <br>
 ## Workshops
+
+<a href="codegarden.umbraco.com/codegarden-program/workshops/">Workshops</a> <br>
+<br>
 <ul>
   <li>
     Umbraco Backoffice UI Workshop (in-person)
