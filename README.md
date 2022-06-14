@@ -1,2 +1,2 @@
 # Umbraco-codegarden-2022
-codegarden.umbraco.com
+<a href="codegarden.umbraco.com">Codegarden Homepage</a>
